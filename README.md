@@ -5,6 +5,7 @@
 - ⚡We offer a range of extracurricular activities, promoting well-rounded growth and global exposure.
 - 🌱Our secure, supportive environment and strong parent-school collaboration ensure every student thrives, becoming compassionate and responsible global citizens.
 - ⚡Join us to experience a nurturing and inspiring educational journey.
+![image](https://github.com/TAACSoftwareDevelopment/TAACSoftwareDevelopment/assets/171648051/43132c1f-61eb-47fd-b13b-7e8d24b12af2)
 
 <!---
 TAACSoftwareDevelopment/TAACSoftwareDevelopment is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
